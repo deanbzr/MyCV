@@ -83,3 +83,13 @@ ul.list-inline.bg-dark.border-warning{
   margin-left: 15px;
 
 }
+
+header.masthead {
+  padding-top: 125px;
+  padding-bottom: 6rem;
+}
+
+.text-landingpage {
+  text-align: right;
+  font-size: 18px;
+}
